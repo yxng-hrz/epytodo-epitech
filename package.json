@@ -1,0 +1,27 @@
+{
+  "name": "epytodo",
+  "version": "1.0.0",
+  "description": "Epitech ToDo list project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2027/B-WEB-200-PAR-2-2-epytodo-jules.dufraiche.git"
+  },
+  "author": "Jules DUFRAICHE, Rafael SAPALO ESTEVES and Guillaume Houriez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2027/B-WEB-200-PAR-2-2-epytodo-jules.dufraiche/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2027/B-WEB-200-PAR-2-2-epytodo-jules.dufraiche#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1"
+  }
+}
